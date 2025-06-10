@@ -27,7 +27,7 @@
   <a href="https://github.com/KimiaMehrbakhsh" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="[https://your-portfolio.com](https://kimiamehrbakhsh.github.io/)" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white">
   </a>
 </p>
