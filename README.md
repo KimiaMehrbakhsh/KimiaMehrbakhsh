@@ -1,7 +1,7 @@
 <!-- Profile README: github.com/KimiaMehrbakhsh -->
 
 <h1 align="center">Hi there 👋, I'm Kimia Mehr-Bakhsh</h1>
-<h3 align="center">🚀 Front-End Developer | UI/UX Enthusiast | Aspiring Immersive Media Creator</h3>
+<h3 align="center">🚀 Software Developer | UI/UX Enthusiast | Aspiring Immersive Media Creator</h3>
 
 ---
 
